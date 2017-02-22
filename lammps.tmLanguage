@@ -6,6 +6,7 @@
 	<array>
 		<string>in</string>
 		<string>lammps</string>
+		<string>run</string>
 	</array>
 	<key>name</key>
 	<string>lammps</string>
