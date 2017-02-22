@@ -2,7 +2,7 @@
 ---
 name: lammps
 scopeName: text.lammps
-fileTypes: [in,lammps]
+fileTypes: [in,lammps,run]
 uuid: 0c25def8-752f-4bbe-b06f-a307d858c465
 
 patterns:
