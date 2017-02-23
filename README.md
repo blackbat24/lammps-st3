@@ -1,5 +1,7 @@
 #Snippets for quick LAMMPS input file
 
+Personal adaptation of ipcamit's work
+
 Put these files in you _User_ folder in ST3 for file highlighting and auto-completion of lammps input files. _User_ folder can be accesed by going to menu: _Prefernces > Browse Packages_. Usually the bottom-most folder will be _User_.
 
 All files with extension *.in or *.lammps should show syntax highlighting now.
